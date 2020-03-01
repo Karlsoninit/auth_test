@@ -8,7 +8,7 @@ export const SignOut = ({ history }) => {
     event.preventDefault();
     const { email } = event.target.elements;
     await db.auth().sendSignInLinkToEmail(email.value, {
-      url: "http://localhost:3000/register",
+      url: "https://karlsoninit.github.io/auth_test/#/register",
       handleCodeInApp: true
     });
     setSendConfirm(true);
