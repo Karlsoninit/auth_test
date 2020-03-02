@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/auth_test/./static/js/main.efdc94f6.chunk.js",
-    "main.js.map": "/auth_test/./static/js/main.efdc94f6.chunk.js.map",
+    "main.js": "/auth_test/./static/js/main.0d0545d9.chunk.js",
+    "main.js.map": "/auth_test/./static/js/main.0d0545d9.chunk.js.map",
     "runtime-main.js": "/auth_test/./static/js/runtime-main.eea23eef.js",
     "runtime-main.js.map": "/auth_test/./static/js/runtime-main.eea23eef.js.map",
     "static/js/2.24521cab.chunk.js": "/auth_test/./static/js/2.24521cab.chunk.js",
     "static/js/2.24521cab.chunk.js.map": "/auth_test/./static/js/2.24521cab.chunk.js.map",
     "index.html": "/auth_test/./index.html",
-    "precache-manifest.cecfb342da9cad73e591ee28eec2f07e.js": "/auth_test/./precache-manifest.cecfb342da9cad73e591ee28eec2f07e.js",
+    "precache-manifest.3af5a6da12d453761668630a91dffe56.js": "/auth_test/./precache-manifest.3af5a6da12d453761668630a91dffe56.js",
     "service-worker.js": "/auth_test/./service-worker.js",
     "static/js/2.24521cab.chunk.js.LICENSE": "/auth_test/./static/js/2.24521cab.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.eea23eef.js",
     "static/js/2.24521cab.chunk.js",
-    "static/js/main.efdc94f6.chunk.js"
+    "static/js/main.0d0545d9.chunk.js"
   ]
 }
