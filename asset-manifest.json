@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/auth_test/./static/js/main.546bbf42.chunk.js",
-    "main.js.map": "/auth_test/./static/js/main.546bbf42.chunk.js.map",
+    "main.js": "/auth_test/./static/js/main.c4361f11.chunk.js",
+    "main.js.map": "/auth_test/./static/js/main.c4361f11.chunk.js.map",
     "runtime-main.js": "/auth_test/./static/js/runtime-main.eea23eef.js",
     "runtime-main.js.map": "/auth_test/./static/js/runtime-main.eea23eef.js.map",
     "static/js/2.b19f9aa8.chunk.js": "/auth_test/./static/js/2.b19f9aa8.chunk.js",
     "static/js/2.b19f9aa8.chunk.js.map": "/auth_test/./static/js/2.b19f9aa8.chunk.js.map",
     "index.html": "/auth_test/./index.html",
-    "precache-manifest.ecf3436732bd8e2ffb4e0caf734c00f2.js": "/auth_test/./precache-manifest.ecf3436732bd8e2ffb4e0caf734c00f2.js",
+    "precache-manifest.5784ff0544feda8d4374bf99f45ce9a3.js": "/auth_test/./precache-manifest.5784ff0544feda8d4374bf99f45ce9a3.js",
     "service-worker.js": "/auth_test/./service-worker.js",
     "static/js/2.b19f9aa8.chunk.js.LICENSE": "/auth_test/./static/js/2.b19f9aa8.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.eea23eef.js",
     "static/js/2.b19f9aa8.chunk.js",
-    "static/js/main.546bbf42.chunk.js"
+    "static/js/main.c4361f11.chunk.js"
   ]
 }
